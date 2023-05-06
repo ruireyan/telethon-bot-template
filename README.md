@@ -1,0 +1,1 @@
+# telethon-bot-template
